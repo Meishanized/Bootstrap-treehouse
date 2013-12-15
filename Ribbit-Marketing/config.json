@@ -1,0 +1,43 @@
+{
+  "vars": {
+    "@text-color": "#b3aeb5",
+    "@container-lg": "1000px",
+    "@btn-default-color": "inherit",
+    "@btn-primary-bg": "rgba(0,0,0,0)",
+    "@btn-success-color": "#fff",
+    "@btn-success-bg": "#60b86b",
+    "@navbar-height": "80px",
+    "@navbar-default-bg": "rgba(47,42,49,0.9)",
+    "@input-color": "#8c969d",
+    "@input-bg": "#dcdfe1",
+    "@input-border": "#d5d5d5",
+    "@panel-bg": "#f7f7f7",
+    "@panel-inner-border": "none",
+    "@panel-default-border": "none",
+    "@jumbotron-bg": "#a085c6",
+    "@jumbotron-color": "#fff",
+    "@jumbotron-heading-color": "#fff"
+  },
+  "css": [
+    "print.less",
+    "type.less",
+    "grid.less",
+    "forms.less",
+    "buttons.less",
+    "glyphicons.less",
+    "input-groups.less",
+    "navs.less",
+    "navbar.less",
+    "jumbotron.less",
+    "thumbnails.less",
+    "panels.less",
+    "close.less",
+    "modals.less",
+    "utilities.less",
+    "responsive-utilities.less"
+  ],
+  "js": [
+    "modal.js",
+    "transition.js"
+  ]
+}
